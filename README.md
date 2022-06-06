@@ -1,4 +1,4 @@
-### Hi there 👋
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=F758D4&background=FFFFFF00&lines=Web+Full-stack+engineer;Blockchain+Web3+engineer)](https://git.io/typing-svg)
 
 <!--
 **redsky500/redsky500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
