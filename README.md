@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&size=28&color=F758D4&background=FFFFFF00&lines=Web+Full-stack+engineer;Blockchain+Web3+engineer)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&size=28&color=F758D4&background=FFFFFF00&lines=Web+Full-stack+engineer;Blockchain+Web3+engineer)]
 <p align="center"><img src="https://git.io/typing-svg" /></p>
 <p align="center"><img src="https://github.com/redsky500/redsky500/blob/main/images/fullStack.webp" /></p>
 <!--
