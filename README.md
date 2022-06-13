@@ -61,7 +61,6 @@
     Email: phantomdev0302@gmail.com <br />
     Skype: https://join.skype.com/invite/yTR4Siilf6Oz <br />
     Telegram: https://t.me/Ryo0302 <br />
-    Linkedin: https://www.linkedin.com/in/ryosuke-yamamoto-b0a261240 <br />
   </p>
 </div>
   
