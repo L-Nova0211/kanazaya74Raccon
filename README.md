@@ -48,7 +48,22 @@
   <img src="https://github.com/redsky500/redsky500/blob/main/icons/web3.svg" />
 </p>
 
-  
+<br />
+
+<div align="center">
+  <h2>
+    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
+      How to reach me
+    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
+  </h2>
+  <br />
+  <p>
+    Email: phantomdev0302@gmail.com <br />
+    Skype: https://join.skype.com/invite/yTR4Siilf6Oz <br />
+    Telegram: https://t.me/Ryo0302 <br />
+    Linkedin: https://www.linkedin.com/in/ryosuke-yamamoto-b0a261240 <br />
+  </p>
+</div>
   
 <!--
 **redsky500/redsky500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
