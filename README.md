@@ -1,4 +1,4 @@
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?center=true&size=28&color=F758D4&background=FFFFFF00&lines=Web+Full-stack+engineer;Blockchain+Web3+engineer" /></p>
+<p align="center"><img src="https://github.com/redsky500/redsky500/blob/main/images/hand.gif" /><img src="https://readme-typing-svg.herokuapp.com?center=true&size=28&color=F758D4&background=FFFFFF00&lines=Web+Full-stack+engineer;Blockchain+Web3+engineer" /><img src="https://github.com/redsky500/redsky500/blob/main/images/hand.gif" /></p>
 <p align="center"><img src="https://github.com/redsky500/redsky500/blob/main/images/fullStack.webp" /></p>
 <p>React.js, Vue.js, Next.js, Nuxt.js, React Native, Angular.js, Svelte<p>
 <p>Express, Nest.js, Laravel, Django, Ruby on Rails<p>
