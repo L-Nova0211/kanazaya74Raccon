@@ -1,15 +1,9 @@
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?center=true&size=28&color=F758D4&background=FFFFFF00&lines=Web+Full-stack+engineer;Blockchain+Web3+engineer" /></p>
 <p align="center"><img src="https://github.com/redsky500/redsky500/blob/main/images/fullStack.webp" /></p>
 <div align="center">
-  <p>React.js, Vue.js, Next.js, Nuxt.js, React Native, Angular.js, Svelte<p>
-  <p>Express, Nest.js, Laravel, Django, Ruby on Rails<p>
-  <p>MongoDB, MySQL, PostgreSQL<p>
-  <p>Typescript, Javascript, PHP, Python, Ruby, CSS, HTML<p>
-  <p>Tailwind, Bootstrap, Vuetify, MDB react, LESS/SASS<p>
-  <p>Cypress, Mocha<p>
-  <p>AWS, Restful API<p>
-  <p>Blockchain, Solidity, Web3.js, Ether.js<p>
-  <p>Github, Truffle, Hardhat, IPFSs<p>
+  <p>
+    React.js, Vue.js, Next.js, Nuxt.js, React Native, Angular.js, Svelte, Express, Nest.js, Laravel, Django, Ruby on Rails, MongoDB, MySQL, PostgreSQL, Tailwind,           Bootstrap, Vuetify, MDB react, LESS/SASS, Cypress, Mocha, AWS, Restful API, Blockchain, Solidity, Web3.js, Ether.js, Github, Truffle, Hardhat, IPFS
+  <p>
 </div>
   
 <img src="https://github.com/redsky500/redsky500/blob/main/images/web3.webp" />
