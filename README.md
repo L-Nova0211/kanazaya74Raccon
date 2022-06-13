@@ -1,12 +1,18 @@
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?center=true&size=28&color=F758D4&background=FFFFFF00&lines=Web+Full-stack+engineer;Blockchain+Web3+engineer" /></p>
+<p align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"><img src="https://readme-typing-svg.herokuapp.com?center=true&size=28&color=F758D4&background=FFFFFF00&lines=Web+Full-stack+engineer;Blockchain+Web3+engineer" /><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></p>
 <p align="center"><img src="https://github.com/redsky500/redsky500/blob/main/images/fullStack.webp" /></p>
-<div align="center">
-  <p>
-    React.js, Vue.js, Next.js, Nuxt.js, React Native, Angular.js, Svelte, Express, Nest.js, Laravel, Django, Ruby on Rails, MongoDB, MySQL, PostgreSQL, Tailwind,           Bootstrap, Vuetify, MDB react, LESS/SASS, Cypress, Mocha, AWS, Restful API, Blockchain, Solidity, Web3.js, Ether.js, Github, Truffle, Hardhat, IPFS
-  <p>
-</div>
+## Skills
+
+- 🌱 Frontend : React.js, Vue.js, Next.js, Nuxt.js, React Native, Angular.js, Svelte, Jquery, Tailwind, Bootstrap, Vuetify, MDB react, LESS/SASS
+- 🔭 Backend : Express, Nest.js, Laravel, Django, Ruby on Rails
+- 🧩 Database : MySQL, PostgreSQL, MongoDB, SQLite
+- 💬 Language : HTML, CSS, Javascript, Typescript, Python, PHP, Ruby
+- 📫 Interesting : Web, Blockchain, mobile
+- Cypress, Mocha, AWS, Rest API
+- Blockchain, Web3.js, Ether.js, Solidity, Truffle, Hardhat, IPFS
   
 <img src="https://github.com/redsky500/redsky500/blob/main/images/web3.webp" />
+## Tools
+
 <p align="center">
   <img src="https://github.com/redsky500/redsky500/blob/main/icons/angular.svg" />
   <img src="https://github.com/redsky500/redsky500/blob/main/icons/react.svg" />
