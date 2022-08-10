@@ -60,7 +60,7 @@
   <p>
     Email: phantomdev0302@gmail.com <br />
     Skype: https://join.skype.com/invite/yTR4Siilf6Oz <br />
-    Telegram: https://t.me/Ryo0302 <br />
+    Telegram: https://t.me/kanbei0605 <br />
   </p>
 </div>
   
