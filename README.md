@@ -59,8 +59,9 @@
   <br />
   <p>
     Email: phantomdev0302@gmail.com <br />
-    Skype: https://join.skype.com/invite/yTR4Siilf6Oz <br />
-    Telegram: https://t.me/Ryosuke0302 <br />
+    Telegram: @Ryosuke0302 <br />
+    Discord: @Ryosuke0302#1332 <br />
+    WhatsApp: +16078217775 <br />
   </p>
 </div>
   
