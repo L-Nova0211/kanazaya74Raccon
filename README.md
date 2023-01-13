@@ -61,7 +61,7 @@
     Email: phantomdev0302@gmail.com <br />
     Telegram: @Ryosuke0302 <br />
     Discord: @Ryosuke0302#1332 <br />
-    WhatsApp: +16078217775 <br />
+    WhatsApp: +13042509060 <br />
   </p>
 </div>
   
