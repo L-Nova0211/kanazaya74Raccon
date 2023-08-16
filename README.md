@@ -1,6 +1,6 @@
 <p align="center"><img src="./images/hand.gif" width="35"><img src="https://readme-typing-svg.herokuapp.com?center=true&size=28&color=F758D4&background=FFFFFF00&lines=Web+Full-stack+engineer;Blockchain+Web3+engineer" /><img src="./images/hand.gif" width="35"></p>
 <p align="center"><img src="./images/fullStack.webp" /></p>
-@@ Skills
+-Skills
 
 - 🌱 Frontend : React.js, Next.js, Vue.js, Nuxt.js, React Native, Flutter, Angular.js, Svelte, Jquery, Tailwind, Bootstrap, Vuetify, LESS/SASS
 - 🔭 Backend : Django, Laravel, Express, Nest.js, Ruby on Rails
@@ -8,10 +8,10 @@
 - 💬 Language : HTML, CSS, Javascript, Typescript, Python, PHP, Ruby
 - 📫 Interesting : Web, Blockchain, mobile app
 - Cypress, Mocha, AWS, Rest API
-- Blockchain, Web3.js, Solidity, Truffle, Hardhat,Ether.js, IPFS
+- Blockchain, Web3.js, Solidity, Truffle, Hardhat, Ether.js, IPFS
   
 <p align="center"><img src="./images/web3.webp" /></p>
-@@ Tools
+-Tools
 
 <p align="center">
   <img src="https://github.com/redsky500/redsky500/blob/main/icons/react.svg" />
