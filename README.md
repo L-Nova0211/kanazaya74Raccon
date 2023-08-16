@@ -1,5 +1,5 @@
-<p align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><img src="https://readme-typing-svg.herokuapp.com?center=true&size=28&color=F758D4&background=FFFFFF00&lines=Web+Full-stack+engineer;Blockchain+Web3+engineer" /><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></p>
-<p align="center"><img src="https://github.com/redsky500/redsky500/blob/main/images/fullStack.webp" /></p>
+<p align="center"><img src="./images/hand.gif" width="35"><img src="https://readme-typing-svg.herokuapp.com?center=true&size=28&color=F758D4&background=FFFFFF00&lines=Web+Full-stack+engineer;Blockchain+Web3+engineer" /><img src="./images/hand.gif" width="35"></p>
+<p align="center"><img src="./images/fullStack.webp" /></p>
 @@ Skills
 
 - 🌱 Frontend : React.js, Next.js, Vue.js, Nuxt.js, React Native, Flutter, Angular.js, Svelte, Jquery, Tailwind, Bootstrap, Vuetify, LESS/SASS
@@ -10,7 +10,7 @@
 - Cypress, Mocha, AWS, Rest API
 - Blockchain, Web3.js, Solidity, Truffle, Hardhat,Ether.js, IPFS
   
-<img src="https://github.com/redsky500/redsky500/blob/main/images/web3.webp" />
+<img src="./images/web3.webp" />
 @@ Tools
 
 <p align="center">
