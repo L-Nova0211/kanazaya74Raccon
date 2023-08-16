@@ -2,7 +2,6 @@
 <p align="center"><img src="./images/fullStack.webp" /></p><br>
 -Skills
 
-<br>
 - 🌱 Frontend : React.js, Next.js, Vue.js, Nuxt.js, React Native, Flutter, Angular.js, Svelte, Jquery, Tailwind, Bootstrap, Vuetify, LESS/SASS
 - 🔭 Backend : Django, Laravel, Express, Nest.js, Ruby on Rails
 - 🧩 Database : MySQL, PostgreSQL, MongoDB, SQLite
@@ -14,7 +13,7 @@
 <p align="center"><img src="./images/web3.webp" /></p><br>
 -Tools
 
-<br><p align="center">
+<p align="center">
   <img src="https://github.com/redsky500/redsky500/blob/main/icons/react.svg" />
   <img src="https://github.com/redsky500/redsky500/blob/main/icons/redux.svg" />
   <img src="https://github.com/redsky500/redsky500/blob/main/icons/vue.svg" />
