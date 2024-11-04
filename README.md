@@ -58,8 +58,8 @@
   </h2>
   <br />
   <p>
-    Telegram: Lovely_Dev0601 <br />
-    Discord: sunshinedmopen <br />
+    Telegram: @L_Nova0211 <br />
+    Discord: hara8040 <br />
   </p>
 </div>
   
